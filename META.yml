@@ -22,4 +22,4 @@ requires:
   Log::Log4perl: 1
   Thrift: 0.6
   YAML: 0.71
-version: 0.01
+version: 0.02
